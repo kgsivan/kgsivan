@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgsivan 
 - 💼 Engineer by Professsion
-- 📸 Photgrapher by Passion
+- 📸 Photographer by Passion
 
 <!---
 kgsivan/kgsivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
