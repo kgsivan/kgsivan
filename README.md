@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kgsivan 
+- 👋 Hi, I’m @kgsivan (Siva)
 - 💼 Engineer by Professsion
 - 📸 Photographer by Passion
 
