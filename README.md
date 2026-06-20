@@ -16,15 +16,6 @@ As an Enterprise Cloud Technologist, I am passionate about leveraging AI-driven 
 * **Analytics & Quality Engineering:** Python, DevSecOps pipelines, Business Analytics, Automated Test Harnesses.
 
 ---
-
-### GitHub Activity
-*(Note: Contributions include private corporate repositories dedicated to enterprise product delivery.)*
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kgsivan&show_icons=true&theme=flat&count_private=true&hide=issues,followers" alt="Sivaprasad's GitHub Stats" height="130" />
-</p>
-
----
-**Beyond the Code:** When I'm away from the keyboard, I enjoy landscape and environmental photography. 
+**Beyond the Work:** When I'm away from the keyboard, I enjoy landscape and environmental photography. 
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/kgsivan)
