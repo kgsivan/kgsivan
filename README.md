@@ -6,18 +6,18 @@ As an Enterprise Cloud Technologist, I am passionate about leveraging AI-driven 
 
 ---
 
-### 💼 Professional Focus
+### Professional Focus
 * **Engineering Leadership:** Mentoring diverse engineering talent, aligning cross-functional teams, and executing complex enterprise product roadmaps.
 * **Intelligent Automation:** Transitioning legacy workflows into modern, portable, and autonomous testing infrastructures.
 * **Data & AI-Driven Strategy:** Applying statistical modeling and data science frameworks to drive smart, analytical engineering decisions.
 
-### 🛠️ Core Domain Exposure
+### Core Domain Exposure
 * **Infrastructure & Platforms:** Enterprise Virtualization, Upgrades & Interoperability, Cloud Technologies, Containerization (Docker, OpenShift).
 * **Analytics & Quality Engineering:** Python, DevSecOps pipelines, Business Analytics, Automated Test Harnesses.
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 *(Note: Contributions include private corporate repositories dedicated to enterprise product delivery.)*
 
 <p align="left">
@@ -25,6 +25,6 @@ As an Enterprise Cloud Technologist, I am passionate about leveraging AI-driven 
 </p>
 
 ---
-🎨 **Beyond the Code:** When I'm away from the keyboard, I enjoy landscape and environmental photography. 
+**Beyond the Code:** When I'm away from the keyboard, I enjoy landscape and environmental photography. 
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/kgsivan)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/kgsivan)
